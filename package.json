@@ -1,0 +1,19 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Atinuke",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.20.4",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
